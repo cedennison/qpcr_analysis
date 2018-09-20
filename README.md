@@ -1,2 +1,2 @@
-# qpcr_anlysis
+# qpcr_analysis
 Analyzing qPCR data
